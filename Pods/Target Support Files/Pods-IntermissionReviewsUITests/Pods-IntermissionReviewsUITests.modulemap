@@ -1,0 +1,6 @@
+framework module Pods_IntermissionReviewsUITests {
+  umbrella header "Pods-IntermissionReviewsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
